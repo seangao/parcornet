@@ -1,0 +1,8 @@
+Package: parcornet
+Type: Package
+Title: Spark Partial Correlation Network
+Version: 0.1.0
+Author: Sean Gao
+Description: Spark Partial Correlation Network
+Encoding: UTF-8
+LazyData: true
